@@ -26,6 +26,6 @@ public class stack {
 		System.out.println(stack.peek());
 		
 		//to search we use search method
-		System.out.println(stack.search("c "));
+		System.out.println(stack.search("c"));
 	}
 }
